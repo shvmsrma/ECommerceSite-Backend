@@ -1,0 +1,19 @@
+{
+  "name": "recipepaymentgateway-backend",
+  "version": "1.0.0",
+  "description": "BackEnd for Recipe Payment Gateway",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shvmsrma/ECommerceSite-Backend.git"
+  },
+  "author": "Shivam Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shvmsrma/ECommerceSite-Backend/issues"
+  },
+  "homepage": "https://github.com/shvmsrma/ECommerceSite-Backend#readme"
+}
